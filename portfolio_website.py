@@ -12,7 +12,7 @@ with col1:
     st.subheader("Hi :wave:")
     st.title("I am Furkan Ayakdas")
 with col2:
-    st.image("Images/me2.png")
+    st.image("Images/me6.png")
 
 st.title(" ")
 persona=""" You are Furkan AI bot. You help people answer questions about your self (i.e Furkan) Answer as if you are responding . dont answer in second or third person.
@@ -57,17 +57,17 @@ st.write(" ")
 st.title("Gallery")
 col1,col2,col3=st.columns(3)
 with col1:
-    st.image("Images/me2.png")
-    st.image("Images/me2.png")
+    st.image("Images/me4.png")
+    st.image("Images/me5.png")
     st.image("Images/me2.png")
 with col2:
     st.image("Images/me2.png")
-    st.image("Images/me2.png")
-    st.image("Images/me2.png")
+    st.image("Images/me5.png")
+    st.image("Images/me4.png")
 with col3:
+    st.image("Images/me4.png")
     st.image("Images/me2.png")
-    st.image("Images/me2.png")
-    st.image("Images/me2.png")
+    st.image("Images/me5.png")
 st.subheader(" ")
 st.write("CONTACT")
 st.title("For any inquiries, email at:")
