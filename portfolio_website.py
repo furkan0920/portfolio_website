@@ -43,7 +43,7 @@ with col2:
 
 st.title(" ")
 st.title("My Setup")
-st.image("portfolio-website/Images/me4.png")
+st.image("Images/me4.png")
 
 
 st.write(" ")
@@ -58,17 +58,17 @@ st.write(" ")
 st.title("Gallery")
 col1,col2,col3=st.columns(3)
 with col1:
-    st.image("portfolio-website/Images/me4.png")
-    st.image("portfolio-website/Images/me5.png")
-    st.image("portfolio-website/Images/me2.png")
+    st.image("Images/me4.png")
+    st.image("Images/me5.png")
+    st.image("Images/me2.png")
 with col2:
-    st.image("portfolio-website/Images/me2.png")
-    st.image("portfolio-website/Images/me5.png")
-    st.image("portfolio-website/Images/me4.png")
+    st.image("Images/me2.png")
+    st.image("Images/me5.png")
+    st.image("Images/me4.png")
 with col3:
-    st.image("portfolio-website/Images/me4.png")
-    st.image("portfolio-website/Images/me2.png")
-    st.image("portfolio-website/Images/me5.png")
+    st.image("Images/me4.png")
+    st.image("Images/me2.png")
+    st.image("Images/me5.png")
 st.subheader(" ")
 st.write("CONTACT")
 st.title("For any inquiries, email at:")
