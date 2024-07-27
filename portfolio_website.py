@@ -72,4 +72,4 @@ with col3:
 st.subheader(" ")
 st.write("CONTACT")
 st.title("For any inquiries, email at:")
-st.subheader("furkan.ayakdas20@gnail.com")
+st.subheader("furkan.ayakdas20@gmail.com")
