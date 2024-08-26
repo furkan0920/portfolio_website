@@ -36,26 +36,17 @@ col1,col2=st.columns(2)
 with col1:
     st.subheader("Youtube Channel")
     st.write("- Largest network channel")
-    st.write("- 150k Subscribers")
+    st.write("- 1k Subscribers")
 
 with col2:
     st.video("https://youtu.be/iaAWMAVsYQM?si=-fPemDSOlSHoK670")
 
-st.title(" ")
-st.title("My Setup")
-st.image("Images/me4.png")
-
+#st.title(" ")
+#st.title("My Achievements")
+#st.image("Images/me4.png")
 
 st.write(" ")
-st.title("My Skills")
-st.slider("Python",0,100,90)
-st.slider("Machine Learning",0,100,70)
-st.slider("Data Science",0,100,70)
-st.slider("Computer Vision",0,100,50)
-
-# st.file_uploader("Upload a file")
-st.write(" ")
-st.title("Gallery")
+st.title("My Achievements")
 col1,col2,col3=st.columns(3)
 with col1:
     st.image("Images/me4.png")
@@ -69,6 +60,26 @@ with col3:
     st.image("Images/me4.png")
     st.image("Images/me2.png")
     st.image("Images/me5.png")
+
+st.write(" ")
+st.title("My Skills")
+st.slider("Python",0,100,90)
+st.slider("Flask",0,100,90)
+st.slider("Tensorflow",0,100,60)
+st.slider("OpenCV",0,100,70)
+st.slider("Machine Learning",0,100,70)
+st.slider("Data Science",0,100,70)
+st.slider("Computer Vision",0,100,60)
+st.slider("ASP.NET",0,100,90)
+st.slider("Java",0,100,90)
+st.slider("JSP",0,100,90)
+st.slider("Postgresql",0,100,90)
+st.slider("Tensorflow",0,100,90)
+st.slider("Mongodb",0,100,50)
+st.slider("PL-SQL",0,100,65)
+
+# st.file_uploader("Upload a file")
+
 st.subheader(" ")
 st.title("CONTACT")
 st.write("furkan.ayakdas20@gmail.com")
