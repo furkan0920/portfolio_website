@@ -49,17 +49,17 @@ st.write(" ")
 st.title("My Achievements")
 col1,col2,col3=st.columns(3)
 with col1:
-    st.image("Images/me4.png")
-    st.image("Images/me5.png")
-    st.image("Images/me2.png")
+    st.image("Images/cef1.png")
+    st.image("Images/cef2.png")
+    st.image("Images/cef3.png")
 with col2:
-    st.image("Images/me2.png")
-    st.image("Images/me5.png")
-    st.image("Images/me4.png")
-with col3:
-    st.image("Images/me4.png")
-    st.image("Images/me2.png")
-    st.image("Images/me5.png")
+    st.image("Images/cef4.png")
+    st.image("Images/cef5.png")
+    #st.image("Images/me4.png")
+#with col3:
+ #   st.image("Images/me4.png")
+  #  st.image("Images/me2.png")
+   # st.image("Images/me5.png")
 
 st.write(" ")
 st.title("My Skills")
